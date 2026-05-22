@@ -23,11 +23,11 @@ From:  100% manual Excel reports · 2-day report cycle · Zero data reliability
 
 | Area | Deliverable |
 |------|-------------|
-| 🏗️ Infrastructure | Power BI Premium · On-premises Gateway (2 nodes) · CData Odoo Connector |
-| 🔄 Data Architecture | 10+ data sources · Centralized Dataflows · Star schema model |
-| 📊 Dashboards | 8+ executive dashboards across Sales, Budget, KPIs, NPS, RFM, Inventory |
-| 📋 Data Governance | KPI catalog · Data dictionary · SLAs (ANS) · Operational procedures |
-| 🎓 Data Literacy | "Data Clinic" program · 94-page User Guide · 15+ executives trained |
+| 🏗️ [Infrastructure](./01-infrastructure/) | Power BI Premium · On-premises Gateway (2 nodes) · CData Odoo Connector |
+| 🔄 [Data Architecture](./02-data-architecture/) | 10+ data sources · Centralized Dataflows · Star schema model |
+| 📊 [Dashboards](./03-dashboards/) | 8+ executive dashboards across Sales, Budget, KPIs, NPS, RFM, Inventory |
+| 📋 [Data Governance](./04-data-governance/) | KPI catalog · Data dictionary · SLAs (ANS) · Operational procedures |
+| 🎓 [Data Literacy](./05-data-literacy/) | "Data Clinic" program · 94-page User Guide · 15+ executives trained |
 
 ---
 
